@@ -1,6 +1,5 @@
 .DS_Store
 node_modules
-/dist
 app.rar
 
 # local env files
